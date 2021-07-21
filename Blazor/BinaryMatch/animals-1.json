@@ -1,46 +1,22 @@
- [
-        {
-          "username": "Mike Koala",
-          "score": 95
-        },
-        {
-          "username": "Gina Kangaroo",
-          "score": 92
-        },
-        {
-          "username": "Sally Tortoise",
-          "score": 86
-        },
-        {
-          "username": "Kim Lobster",
-          "score": 67
-        },
-        {
-          "username": "Peter Rabbit",
-          "score": 56
-        },
-        {
-          "username": "Frank Leopard",
-          "score": 43
-        },
-        {
-          "username": "Mary Hyena",
-          "score": 34
-        },
-        {
-          "username": "Caroline Bear",
-          "score": 32
-        },
-        {
-          "username": "Tom Eagle",
-          "score": 24
-        },
-        {
-          "username": "Jim Unicorn",
-          "score": 11
-        },
-        {
-          "username": "Player 1",
-          "score": 0
-        }
+[
+  {
+	  "username": "Freezing"
+	  "score": 1,    
+  },
+  {
+    "username": "Freezing"
+	  "score": 1, 
+  },
+  {
+    "username": "Freezing"
+	  "score": 1, 
+  },
+  {
+    "username": "Freezing"
+	  "score": 1, 
+  },
+  {
+    "username": "Freezing"
+	  "score": 1, 
+  }
 ]
