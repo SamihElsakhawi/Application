@@ -1,46 +1,46 @@
  {
         {
-          "name": "Mike Koala",
+          "username": "Mike Koala",
           "score": 95
         },
         {
-          "name": "Gina Kangaroo",
+          "username": "Gina Kangaroo",
           "score": 92
         },
         {
-          "name": "Sally Tortoise",
+          "username": "Sally Tortoise",
           "score": 86
         },
         {
-          "name": "Kim Lobster",
+          "username": "Kim Lobster",
           "score": 67
         },
         {
-          "name": "Peter Rabbit",
+          "username": "Peter Rabbit",
           "score": 56
         },
         {
-          "name": "Frank Leopard",
+          "username": "Frank Leopard",
           "score": 43
         },
         {
-          "name": "Mary Hyena",
+          "username": "Mary Hyena",
           "score": 34
         },
         {
-          "name": "Caroline Bear",
+          "username": "Caroline Bear",
           "score": 32
         },
         {
-          "name": "Tom Eagle",
+          "username": "Tom Eagle",
           "score": 24
         },
         {
-          "name": "Jim Unicorn",
+          "username": "Jim Unicorn",
           "score": 11
         },
         {
-          "name": "Player 1",
+          "username": "Player 1",
           "score": 0
         }
 }
