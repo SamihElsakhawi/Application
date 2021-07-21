@@ -1,4 +1,4 @@
- {
+ [
         {
           "username": "Mike Koala",
           "score": 95
@@ -43,4 +43,4 @@
           "username": "Player 1",
           "score": 0
         }
-}
+]
