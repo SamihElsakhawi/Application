@@ -2,84 +2,24 @@
       "medium": [
         {
 			"rank": 1,
-			"username": "test 1",
-			"score": 95
-        },
-		{
-			"rank": 2,
-			"username": "test 2",
-			"score": 90
-        },
-		{
-			"rank": 3,
-			"username": "test 3",
-			"score": 85
-        },
-		{
-			"rank": 4,
-			"username": "test 4",
-			"score": 80
-        },
-		{
-			"rank": 5,
-			"username": "test 5",
-			"score": 75
+			"username": "Kaizersamih",
+			"score": 124
         }
       ],
 	  
 	  "expert": [
         {
 			"rank": 1,
-			"username": "test 1",
-			"score": 90
-        },
-		{
-			"rank": 2,
-			"username": "test 2",
-			"score": 85
-        },
-		{
-			"rank": 3,
-			"username": "test 3",
-			"score": 80
-        },
-		{
-			"rank": 4,
-			"username": "test 4",
-			"score": 75
-        },
-		{
-			"rank": 5,
-			"username": "test 5",
-			"score": 70
+			"username": "Kaizersamih",
+			"score": 110
         }
       ],
 	  
 	  "ai": [
         {
 			"rank": 1,
-			"username": "test 1",
-			"score": 40
-        },
-		{
-			"rank": 2,
-			"username": "test 2",
-			"score": 35
-        },
-		{
-			"rank": 3,
-			"username": "test 3",
-			"score": 30
-        },
-		{
-			"rank": 4,
-			"username": "test 4",
-			"score": 25
-        },
-		{
-			"rank": 5,
-			"username": "test 5",
-			"score": 20
+			"username": "Kaizersamih",
+			"score": 84
         }
       ]
 }
