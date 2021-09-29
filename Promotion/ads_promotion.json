@@ -1,0 +1,17 @@
+{
+      "binarymatch": [
+        {
+			"app_name": "Binary Match",
+			"app_image": "Application\Promotion\ads_promotion_binarymatch.png",
+			"app_link": "https://binarymatch.netlify.app/"
+        }
+      ],
+	  
+	  "test": [
+        {
+			"app_name": "Test",
+			"app_image": "Application\Promotion\ads_promotion_test.png",
+			"app_link": "https://github.com/SamihElsakhawi"
+        }
+      ],	  	  
+}
