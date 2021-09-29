@@ -1,5 +1,5 @@
 {
-      "binarymatch": [
+      "app": [
         {
 			"app_name": "Binary Match",
 			"app_image": "Application\Promotion\ads_promotion_binarymatch.png",
@@ -7,7 +7,7 @@
         }
       ],
 	  
-	  "test": [
+	  "app": [
         {
 			"app_name": "Test",
 			"app_image": "Application\Promotion\ads_promotion_test.png",
