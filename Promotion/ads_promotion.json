@@ -1,9 +1,39 @@
 {
 	"app": [
 		{
+			"app_name": "A Little Paper Boat",
+			"app_image": "Promotion/ads_promotion_alittlepaperboat.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.ALittlePaperBoat"
+		},
+		{
 			"app_name": "Binary Match",
 			"app_image": "Promotion/ads_promotion_binarymatch.png",
-			"app_link": "https://binarymatch.netlify.app/"
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.BinaryMatch"
+		},
+		{
+			"app_name": "Chronos Tasker",
+			"app_image": "Promotion/ads_promotion_chronostasker.png",
+			"app_link": "https://apps.microsoft.com/store/detail/chronos-tasker/9P9NG81W2VTP?hl=fr-fr&gl=fr"
+		},
+		{
+			"app_name": "Fbx Telecommande",
+			"app_image": "Promotion/ads_promotion_fbxtelec.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FreeboxTelecommande"
+		},
+		{
+			"app_name": "ads_promotion_footballkickpractice",
+			"app_image": "Promotion/ads_promotion_binarymatch.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FootballKickPratice"
+		},
+		{
+			"app_name": "Hair Clipper Prank",
+			"app_image": "Promotion/ads_promotion_hairclipperprank.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.RealHairRazor"
+		},
+		{
+			"app_name": "Simple Flashlight",
+			"app_image": "Promotion/ads_promotion_simpleflashlight.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElSakhawi.SimpleFlashLight"
 		}
 	] 
 }
