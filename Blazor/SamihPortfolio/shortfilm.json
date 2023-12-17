@@ -1,0 +1,23 @@
+[
+    {
+        "imageUrl": "../image/short_erosionEsprit.webp",
+        "pageUrl": "https://www.youtube.com/watch?v=xBO5aA0YgT8",
+        "title": "Érosion de l'esprit",
+        "year": "2023",
+        "note": "Ce court illustre un poème que j'ai créé, décrivant les effets du temps sur notre personnalité."
+    },
+    {
+        "imageUrl": "../image/short_coralbirth.webp",
+        "pageUrl": "https://www.youtube.com/watch?v=-GDQX-KCTuE",
+        "title": "Coral Birth",
+        "year": "2022",
+        "note": "J'ai toujours été fasciné par les splendeurs du monde aquatique. Ce court a été l'occasion de mettre en lumière la naissance des coraux."
+    },
+    {
+        "imageUrl": "../image/short_dualette.webp",
+        "pageUrl": "https://www.youtube.com/watch?v=bkmEFjwDLog",
+        "title": "Dualette by SYLVANIA",
+        "year": "2021",
+        "note": "Publicité fictive que j'ai créé pour le modèle Dualette de Sylvania."
+    }
+]
