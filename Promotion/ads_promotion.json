@@ -21,14 +21,19 @@
 			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FreeboxTelecommande"
 		},
 		{
-			"app_name": "ads_promotion_footballkickpractice",
-			"app_image": "Promotion/ads_promotion_binarymatch.png",
+			"app_name": "Football Kick Practice",
+			"app_image": "Promotion/ads_promotion_footballkickpractice.png",
 			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FootballKickPratice"
 		},
 		{
 			"app_name": "Hair Clipper Prank",
 			"app_image": "Promotion/ads_promotion_hairclipperprank.png",
 			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.RealHairRazor"
+		},
+		{
+			"app_name": "Journey Through Cytoplasm",
+			"app_image": "Promotion/ads_promotion_journeythroughcytoplasm.png",
+			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.JourneyThroughCytoplasm"
 		},
 		{
 			"app_name": "Simple Flashlight",
