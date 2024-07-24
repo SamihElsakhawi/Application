@@ -1,8 +1,13 @@
 ﻿[
 	{
+        "imageUrl": "https://cdnb.artstation.com/p/assets/images/images/078/343/733/large/samih-el-sakhawi-produit-predormyl-1-portfolio.jpg?1721838252",
+        "pageUrl": "https://www.artstation.com/artwork/OvqvXy",
+        "spotlight": false
+    },
+	{
         "imageUrl": "https://cdna.artstation.com/p/assets/images/images/075/025/762/large/samih-el-sakhawi-geology-antartica-ice-cliff-render-1-resize.jpg?1713543080",
         "pageUrl": "https://www.artstation.com/artwork/m8yLda",
-        "spotlight": false
+        "spotlight": true
     },
 	{
         "imageUrl": "https://cdnb.artstation.com/p/assets/images/images/073/398/383/large/samih-el-sakhawi-archviz-french-interior-render-postprod-resize.jpg?1709573004",
