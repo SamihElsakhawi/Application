@@ -1,5 +1,12 @@
 [
     {
+        "imageUrl": "https://img.youtube.com/vi/s8wtp1Nxbqc/0.jpg",
+        "pageUrl": "https://www.youtube.com/watch?v=s8wtp1Nxbqc",
+        "title": "يقظ [yaqiZ]",
+        "year": "2024",
+        "note": "Un court métrage réalisé par moi-même à partir d'une idée originale que j'ai eue il y a quelques années."
+    },
+	{
         "imageUrl": "../image/short_erosionEsprit.webp",
         "pageUrl": "https://www.youtube.com/watch?v=xBO5aA0YgT8",
         "title": "Érosion de l'esprit",
