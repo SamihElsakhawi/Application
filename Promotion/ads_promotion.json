@@ -1,44 +1,9 @@
 {
 	"app": [
 		{
-			"app_name": "A Little Paper Boat",
-			"app_image": "Promotion/ads_promotion_alittlepaperboat.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.ALittlePaperBoat"
-		},
-		{
-			"app_name": "Binary Match",
-			"app_image": "Promotion/ads_promotion_binarymatch.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.BinaryMatch"
-		},
-		{
-			"app_name": "Chronos Tasker",
-			"app_image": "Promotion/ads_promotion_chronostasker.png",
-			"app_link": "https://apps.microsoft.com/store/detail/chronos-tasker/9P9NG81W2VTP?hl=fr-fr&gl=fr"
-		},
-		{
-			"app_name": "Fbx Telecommande",
-			"app_image": "Promotion/ads_promotion_fbxtelec.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FreeboxTelecommande"
-		},
-		{
-			"app_name": "Football Kick Practice",
-			"app_image": "Promotion/ads_promotion_footballkickpractice.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.FootballKickPratice"
-		},
-		{
-			"app_name": "Hair Clipper Prank",
-			"app_image": "Promotion/ads_promotion_hairclipperprank.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.RealHairRazor"
-		},
-		{
-			"app_name": "Journey Through Cytoplasm",
-			"app_image": "Promotion/ads_promotion_journeythroughcytoplasm.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElsakhawi.JourneyThroughCytoplasm"
-		},
-		{
-			"app_name": "Simple Flashlight",
-			"app_image": "Promotion/ads_promotion_simpleflashlight.png",
-			"app_link": "https://play.google.com/store/apps/details?id=com.SamihElSakhawi.SimpleFlashLight"
+			"app_name": "Apps By Samih",
+			"app_image": "Promotion/appsBySamih_resize.png",
+			"app_link": "https://samihapps.pages.dev/"
 		}
 	] 
 }
